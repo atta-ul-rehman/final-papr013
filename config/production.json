@@ -1,0 +1,3 @@
+{
+    "db":"mongodb+srv://atta:12345@cluster0.qddrp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
